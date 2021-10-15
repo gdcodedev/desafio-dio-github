@@ -1,8 +1,10 @@
-# desafio-dio-ithub
+# Desafio de Projeto Git/GitHub DIO
+
  Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
-[Sintaxe básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+
+[Sinstaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
  Este repositório tem como base de estudos em git, foi criado apenas para voltar a entender a forma que hoje as equipes estão trabalhando em conjunto.
@@ -12,7 +14,7 @@
 # Comandos básicos em GIT : 
 
 - Criar um novo repositório local : git init
-- Verificar estado dos repositórios/Arquivos : git status 
+- Verificar estado dos repositórios/Arquivos : git status
 - Adicionar um arquivo ao repositório : git add nomedoarquivo.txt
 - Commitar um arquivo : git commit -m nomedoarquivo.txt 
 - Criando um repositório local : mkdir NOMEDOREPOSITÓRIO
@@ -20,7 +22,7 @@
 - Iniciar repositório criado : git init
 - Criar arquivos dentro do repositório : touch
 - Adicionar arquivo para ser monitorado pelo git : git add NOME_DO_ARQUIVO
-- LISTAR BRANCHS : git branch
+- Listar Branchs : git branch
 - Criando uma nova Branch : git branch nomedabranch
 - Trocando de Branch : git checkout nomedabranch
 - Apagando uma Branch : git branch -d NOME_DA_BRANCH
@@ -32,7 +34,7 @@
 - Comando para editar mensagem do seu último commit : git commit --amend 
 - Comando para consultar os commits : git log --stat
 - Comando para forçar o push : git push --force "repositoriogit"
- 
+
 # Resumo : 
 
 Esses comandos pode ajudar muito quando é necessário aprender o básico de git ou até mesmo para reaprender a utilizar o mesmo.
